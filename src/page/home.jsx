@@ -708,7 +708,7 @@ const frutasData = [
                 "fructosa": ""
             }
         },
-        "imagen": "https://elpoderdelconsumidor.org/wp-content/uploads/2016/11/mandarina.jpg"
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSogVDB3L-XFrOl6NGZWDChMVrqo4e_vUt7hA&s"
     },
     {
         "ES": "Manzana",
@@ -1460,7 +1460,7 @@ const frutasData = [
                 "fructosa": ""
             }
         },
-        "imagen": "https://imgs.search.brave.com/-TTEmBLoRAm55A4k3M4elIF_NgKZPqSnlPLxu9ae3sA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bGVjaGVwdWxldmEu/ZXMvZG9jdW1lbnRz/LzEzOTMwLzIwMzIy/Mi9ham9fZy5qcGcv/OGMyZTMyNWEtMjc3/NC00ZmNiLWJkMzct/YzZhNTcwY2M4Yzg1/P3Q9MTQyMjg3MTc4/NTAwMA"
+        "imagen": "https://www.sorianatural.es/img/plantas-gallery/0ke9vx4ebekpg3zhiuhjthuwpimuvb/F0000002649_ajo_planta_soria_natural.jpg.jpg"
     },
     {
         "ES": "Alcachofa",
@@ -1836,7 +1836,7 @@ const frutasData = [
                 "fructosa": ""
             }
         },
-        "imagen": "https://elpoderdelconsumidor.org/wp-content/uploads/2016/11/brocoli.jpg"
+        "imagen": "https://esnd.es/wp-content/uploads/2024/08/broccoli-1450274_1280x1159_resultado.webp"
     },
     {
         "ES": "Calabacín",
@@ -1950,7 +1950,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-green-50 to-green-100">
       <div className="container mx-auto px-4 py-8">
-        <h1 className="text-3xl font-bold text-center text-green-600 mb-8">Información Nutricional de Frutas</h1>
+        <h1 className="text-3xl font-bold text-center text-green-600 mb-8">Información Nutricional de Frutas y verduras</h1>
 
         {!mostrarDetalle ? (
           // Vista de listado
