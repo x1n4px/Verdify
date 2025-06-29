@@ -1884,6 +1884,523 @@ const frutasData = [
             }
         },
         "imagen": "https://alimentamerindades.org/wp-content/uploads/2024/03/CALABACIN-ECOLOGICO-COMEDELAHUERTA-1.jpg"
+    },
+    {
+        "ES": "Nectarina",
+        "EN": "Nectarine",
+        "tipo": "Fruta",
+        "macros": {
+            "calorias": 44.0,
+            "proteinas": 1.1,
+            "grasas": 0.3,
+            "AGSaturados": 0.0,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.1,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 9.0,
+            "fibra": 1.7,
+            "agua": 87.6,
+            "minerales": {
+                "calcio": 6.0,
+                "Hierro": 0.3,
+                "Yodo": 0.0,
+                "Magnesio": 9.0,
+                "Zinc": 0.17,
+                "Sodio": 0.0,
+                "Potasio": 201.0,
+                "Fosforo": 26.0,
+                "Selenio": 0.0
+            },
+            "vitaminas": {
+                "Tiamina": 0.03,
+                "Riboflavina": 0.03,
+                "Niacina": 1.1,
+                "B6": 0.03,
+                "Folatos": 5.0,
+                "B12": 0.0,
+                "C": 5.4,
+                "A": 150.0,
+                "D": 0.0,
+                "E": 0.77
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.frutasmontosa.com/wp-content/uploads/2018/05/nectarina-carne-amarilla-y-roja.jpg"
+    },
+    {
+        "ES": "Paraguayo",
+        "EN": "Saturn peach",
+        "tipo": "Fruta",
+        "macros": {
+            "calorias": 46.0,
+            "proteinas": 0.9,
+            "grasas": 0.2,
+            "AGSaturados": 0.0,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.1,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 10.0,
+            "fibra": 1.5,
+            "agua": 88.0,
+            "minerales": {
+                "calcio": 7.0,
+                "Hierro": 0.3,
+                "Yodo": 0.0,
+                "Magnesio": 9.0,
+                "Zinc": 0.1,
+                "Sodio": 1.0,
+                "Potasio": 190.0,
+                "Fosforo": 20.0,
+                "Selenio": 0.1
+            },
+            "vitaminas": {
+                "Tiamina": 0.02,
+                "Riboflavina": 0.04,
+                "Niacina": 0.8,
+                "B6": 0.02,
+                "Folatos": 4.0,
+                "B12": 0.0,
+                "C": 6.0,
+                "A": 26.0,
+                "D": 0.0,
+                "E": 0.7
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.frutadirecta.com/281-large_default/paraguayos.jpg"
+    },
+    {
+        "ES": "Tomate",
+        "EN": "Tomato",
+        "tipo": "Hortaliza",
+        "macros": {
+            "calorias": 22.0,
+            "proteinas": 1.0,
+            "grasas": 0.2,
+            "AGSaturados": 0.0,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.1,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 3.5,
+            "fibra": 1.4,
+            "agua": 94.0,
+            "minerales": {
+                "calcio": 11.0,
+                "Hierro": 0.5,
+                "Yodo": 3.0,
+                "Magnesio": 10.0,
+                "Zinc": 0.2,
+                "Sodio": 9.0,
+                "Potasio": 250.0,
+                "Fosforo": 27.0,
+                "Selenio": 0.0
+            },
+            "vitaminas": {
+                "Tiamina": 0.06,
+                "Riboflavina": 0.04,
+                "Niacina": 0.7,
+                "B6": 0.1,
+                "Folatos": 29.0,
+                "B12": 0.0,
+                "C": 24.0,
+                "A": 90.0,
+                "D": 0.0,
+                "E": 1.2
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.lovemysalad.com/sites/default/files/styles/image_530x397/public/tomates_-_ensalada_de_tomate_con_cebolla_roja_y_vinagreta_de_oregano.jpg?itok=f9A2rQJ9"
+    },
+    {
+        "ES": "Pepino",
+        "EN": "Cucumber",
+        "tipo": "Hortaliza",
+        "macros": {
+            "calorias": 12.0,
+            "proteinas": 0.7,
+            "grasas": 0.1,
+            "AGSaturados": 0.0,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.0,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 1.9,
+            "fibra": 0.7,
+            "agua": 96.7,
+            "minerales": {
+                "calcio": 16.0,
+                "Hierro": 0.2,
+                "Yodo": 0.0,
+                "Magnesio": 13.0,
+                "Zinc": 0.2,
+                "Sodio": 2.0,
+                "Potasio": 147.0,
+                "Fosforo": 24.0,
+                "Selenio": 0.3
+            },
+            "vitaminas": {
+                "Tiamina": 0.03,
+                "Riboflavina": 0.03,
+                "Niacina": 0.1,
+                "B6": 0.04,
+                "Folatos": 7.0,
+                "B12": 0.0,
+                "C": 2.8,
+                "A": 5.0,
+                "D": 0.0,
+                "E": 0.03
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.frutas-hortalizas.com/img/fruites_verdures/presentacio/24.jpg"
+    },
+    {
+        "ES": "Pimiento Rojo",
+        "EN": "Red Pepper",
+        "tipo": "Verdura",
+        "macros": {
+            "calorias": 33.0,
+            "proteinas": 1.3,
+            "grasas": 0.5,
+            "AGSaturados": 0.1,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.2,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 4.2,
+            "fibra": 1.8,
+            "agua": 91.7,
+            "minerales": {
+                "calcio": 11.0,
+                "Hierro": 0.7,
+                "Yodo": 2.0,
+                "Magnesio": 14.0,
+                "Zinc": 0.2,
+                "Sodio": 3.0,
+                "Potasio": 260.0,
+                "Fosforo": 29.0,
+                "Selenio": 0.3
+            },
+            "vitaminas": {
+                "Tiamina": 0.05,
+                "Riboflavina": 0.04,
+                "Niacina": 0.6,
+                "B6": 0.22,
+                "Folatos": 17.0,
+                "B12": 0.0,
+                "C": 139.0,
+                "A": 129.0,
+                "D": 0.0,
+                "E": 0.7
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://lagarbancitaecologica.org/wp-content/uploads/2021/08/pimiento-rojo-ecologico.jpg"
+    },
+    {
+        "ES": "Cebolla",
+        "EN": "Onion",
+        "tipo": "Verdura",
+        "macros": {
+            "calorias": 38.0,
+            "proteinas": 1.3,
+            "grasas": 0.2,
+            "AGSaturados": 0.0,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.0,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 7.1,
+            "fibra": 1.8,
+            "agua": 90.1,
+            "minerales": {
+                "calcio": 25.0,
+                "Hierro": 0.5,
+                "Yodo": 5.0,
+                "Magnesio": 12.0,
+                "Zinc": 0.2,
+                "Sodio": 12.0,
+                "Potasio": 170.0,
+                "Fosforo": 44.0,
+                "Selenio": 0.6
+            },
+            "vitaminas": {
+                "Tiamina": 0.04,
+                "Riboflavina": 0.02,
+                "Niacina": 0.2,
+                "B6": 0.1,
+                "Folatos": 20.0,
+                "B12": 0.0,
+                "C": 9.0,
+                "A": 3.0,
+                "D": 0.0,
+                "E": 0.1
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.cebollas-recas.es/wp-content/uploads/2016/09/cebolla_pelada.jpg"
+    },
+    {
+        "ES": "Zanahoria",
+        "EN": "Carrot",
+        "tipo": "Verdura",
+        "macros": {
+            "calorias": 40.0,
+            "proteinas": 0.9,
+            "grasas": 0.2,
+            "AGSaturados": 0.0,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.1,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 6.9,
+            "fibra": 2.6,
+            "agua": 88.7,
+            "minerales": {
+                "calcio": 41.0,
+                "Hierro": 0.6,
+                "Yodo": 6.0,
+                "Magnesio": 13.0,
+                "Zinc": 0.3,
+                "Sodio": 62.0,
+                "Potasio": 285.0,
+                "Fosforo": 31.0,
+                "Selenio": 0.9
+            },
+            "vitaminas": {
+                "Tiamina": 0.06,
+                "Riboflavina": 0.05,
+                "Niacina": 1.1,
+                "B6": 0.12,
+                "Folatos": 10.0,
+                "B12": 0.0,
+                "C": 7.0,
+                "A": 1333.0,
+                "D": 0.0,
+                "E": 0.5
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.biolineagri.es/wp-content/uploads/2021/03/zanahoria-propiedades.jpg"
+    },
+    {
+        "ES": "Espinaca",
+        "EN": "Spinach",
+        "tipo": "Verdura",
+        "macros": {
+            "calorias": 22.0,
+            "proteinas": 2.8,
+            "grasas": 0.3,
+            "AGSaturados": 0.0,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.2,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 0.8,
+            "fibra": 2.7,
+            "agua": 92.7,
+            "minerales": {
+                "calcio": 117.0,
+                "Hierro": 4.0,
+                "Yodo": 29.0,
+                "Magnesio": 78.0,
+                "Zinc": 0.8,
+                "Sodio": 60.0,
+                "Potasio": 529.0,
+                "Fosforo": 45.0,
+                "Selenio": 1.0
+            },
+            "vitaminas": {
+                "Tiamina": 0.09,
+                "Riboflavina": 0.2,
+                "Niacina": 1.3,
+                "B6": 0.2,
+                "Folatos": 140.0,
+                "B12": 0.0,
+                "C": 30.0,
+                "A": 672.0,
+                "D": 0.0,
+                "E": 1.8
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.gastronomiavasca.net/uploads/image/file/3400/espinacas.jpg"
+    },
+    {
+        "ES": "Coliflor",
+        "EN": "Cauliflower",
+        "tipo": "Verdura",
+        "macros": {
+            "calorias": 27.0,
+            "proteinas": 2.3,
+            "grasas": 0.5,
+            "AGSaturados": 0.2,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.1,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 3.0,
+            "fibra": 2.1,
+            "agua": 91.8,
+            "minerales": {
+                "calcio": 22.0,
+                "Hierro": 0.7,
+                "Yodo": 10.0,
+                "Magnesio": 17.0,
+                "Zinc": 0.4,
+                "Sodio": 17.0,
+                "Potasio": 350.0,
+                "Fosforo": 56.0,
+                "Selenio": 0.6
+            },
+            "vitaminas": {
+                "Tiamina": 0.1,
+                "Riboflavina": 0.1,
+                "Niacina": 0.9,
+                "B6": 0.2,
+                "Folatos": 69.0,
+                "B12": 0.0,
+                "C": 67.0,
+                "A": 3.0,
+                "D": 0.0,
+                "E": 0.1
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.cuchillitoitenedor.com/wp-content/uploads/2014/11/coliflor.jpg"
+    },
+    {
+        "ES": "Puerro",
+        "EN": "Leek",
+        "tipo": "Verdura",
+        "macros": {
+            "calorias": 34.0,
+            "proteinas": 1.9,
+            "grasas": 0.3,
+            "AGSaturados": 0.0,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.1,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 5.0,
+            "fibra": 2.8,
+            "agua": 89.0,
+            "minerales": {
+                "calcio": 60.0,
+                "Hierro": 1.0,
+                "Yodo": 2.0,
+                "Magnesio": 16.0,
+                "Zinc": 0.3,
+                "Sodio": 7.0,
+                "Potasio": 280.0,
+                "Fosforo": 46.0,
+                "Selenio": 1.0
+            },
+            "vitaminas": {
+                "Tiamina": 0.1,
+                "Riboflavina": 0.06,
+                "Niacina": 0.5,
+                "B6": 0.1,
+                "Folatos": 64.0,
+                "B12": 0.0,
+                "C": 20.0,
+                "A": 64.0,
+                "D": 0.0,
+                "E": 1.0
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.fruteriaelvergel.com/wp-content/uploads/2021/01/puerros.jpg"
+    },
+    {
+        "ES": "Judía Verde",
+        "EN": "Green Bean",
+        "tipo": "Verdura",
+        "macros": {
+            "calorias": 35.0,
+            "proteinas": 2.4,
+            "grasas": 0.3,
+            "AGSaturados": 0.1,
+            "AGMonoInSaturados": 0.0,
+            "AGPoliinsaturados": 0.1,
+            "Omega3": 0.0,
+            "C182Linoleico": 0.0,
+            "Colesterol": 0.0,
+            "carbohidratos": 4.3,
+            "fibra": 2.8,
+            "agua": 89.9,
+            "minerales": {
+                "calcio": 56.0,
+                "Hierro": 1.0,
+                "Yodo": 3.0,
+                "Magnesio": 26.0,
+                "Zinc": 0.4,
+                "Sodio": 5.0,
+                "Potasio": 260.0,
+                "Fosforo": 46.0,
+                "Selenio": 0.7
+            },
+            "vitaminas": {
+                "Tiamina": 0.08,
+                "Riboflavina": 0.1,
+                "Niacina": 0.7,
+                "B6": 0.1,
+                "Folatos": 53.0,
+                "B12": 0.0,
+                "C": 19.0,
+                "A": 35.0,
+                "D": 0.0,
+                "E": 0.4
+            },
+            "glucidos": {
+                "glucosa": "",
+                "fructosa": ""
+            }
+        },
+        "imagen": "https://www.cocinatis.com/archivos/202206/judias-verdes-redondas-1280x720x80xX.jpg"
     }
 ]
 
