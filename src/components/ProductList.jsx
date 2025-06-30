@@ -20,6 +20,11 @@ export const ProductList = ({ productos, onProductClick }) => {
       
       const matchesFilter = selectedFilter === 'Todos' || productType === selectedFilter;
       return matchesSearch && matchesFilter;
+    })
+    .sort((a, b) => {
+      const nameA = a.nombre.split('\n')[0] || '';
+      const nameB = b.nombre.split('\n')[0] || '';
+      return nameA.localeCompare(nameB);
     });
   }, [productos, searchTerm, selectedFilter]);
 
