@@ -1,18 +1,35 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Home from './page/home'
-
+import React, { useState } from 'react';
+import { ProductList } from './components/ProductList';
+import { ProductDetail } from './components/ProductDetail';
+import { productos } from './data/productos';
+import './App.css';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [selectedProduct, setSelectedProduct] = useState(null);
+
+  const handleProductClick = (producto) => {
+    setSelectedProduct(producto);
+  };
+
+  const handleBackToList = () => {
+    setSelectedProduct(null);
+  };
 
   return (
-    <>
-      <Home />
-    </>
-  )
+    <div className="App">
+      {selectedProduct ? (
+        <ProductDetail 
+          producto={selectedProduct} 
+          onBack={handleBackToList}
+        />
+      ) : (
+        <ProductList 
+          productos={productos} 
+          onProductClick={handleProductClick}
+        />
+      )}
+    </div>
+  );
 }
 
 export default App
