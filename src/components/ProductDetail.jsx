@@ -38,11 +38,12 @@ export const ProductDetail= ({ producto, onBack }) => {
         <div className="bg-white rounded-2xl shadow-xl overflow-hidden mb-8">
           <div className="md:flex">
             <div className="md:w-1/2">
+               
               <img
-                src={producto['image']}
-                alt={productName}
-                className="w-full h-64 md:h-full object-cover"
-              />
+          src={!producto?.image ? `/${producto.nombre}.webp` : producto['image']}
+          alt={producto?.nombre || 'Producto'}
+          className="w-full h-64 md:h-full object-cover"
+        />
             </div>
             <div className="md:w-1/2 p-8">
               <div className="flex items-center gap-3 mb-4">
