@@ -1,10 +1,13 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { ArrowLeft, Calendar, Percent, Info, Zap, Heart, Leaf } from 'lucide-react';
 
  
 export const ProductDetail= ({ producto, onBack }) => {
 
- console.log(producto)
+  useEffect(() => {
+    // Hace scroll a la parte superior de la página (coordenadas 0, 0)
+    window.scrollTo(0, 0);
+  }, [producto]);
 
   const productName = (producto.nombre);
   const englishName = (producto.nombre_ingles);
