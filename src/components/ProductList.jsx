@@ -10,14 +10,13 @@ export const ProductList = ({ productos, onProductClick }) => {
 
   const filteredProducts = useMemo(() => {
     return productos.filter(producto => {
-      const productName = producto.descripcion.split('\n')[0] || '';
-      const englishName = producto.descripcion.split('\n')[1] || '';
+      const productName = producto.nombre.split('\n')[0] || '';
+      const englishName = producto.nombre_ingles.split('\n')[1] || '';
       
       const matchesSearch = productName.toLowerCase().includes(searchTerm.toLowerCase()) ||
                            englishName.toLowerCase().includes(searchTerm.toLowerCase());
       
-      const productType = producto.descripcion.toLowerCase().includes('fruta') || 
-                         producto.descripcion.toLowerCase().includes('fruit') ? 'Fruta' : 'Verdura';
+      const productType = producto.tipo_producto;
       
       const matchesFilter = selectedFilter === 'Todos' || productType === selectedFilter;
       return matchesSearch && matchesFilter;
